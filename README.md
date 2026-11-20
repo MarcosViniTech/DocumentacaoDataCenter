@@ -4,7 +4,7 @@ Documentação: https://drive.google.com/file/d/1On1PCTls3djC4xbRiA9jR46tgdjYmbE
 
 ## 📌 Sobre o Projeto
 
-Projeto acadêmico desenvolvido em equipe, com foco na organização e documentação técnica da infraestrutura de um Data Center.
+Projeto acadêmico desenvolvido em equipe, no primeiro semestre de Ciência da Computação, com foco na organização e documentação técnica da infraestrutura de um Data Center.
 
 O trabalho aborda aspectos relacionados à infraestrutura, segurança física, prevenção de riscos, monitoramento e controle de acesso ao ambiente.
 
