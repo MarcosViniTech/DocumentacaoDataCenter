@@ -14,13 +14,13 @@ Estruturar a documentação técnica de um ambiente de Data Center, reunindo inf
 
 ## 🛠️ Atividades Desenvolvidas
 
-- Organização e estruturação de toda a documentação técnica do projeto, reunindo e padronizando as informações desenvolvidas pela equipe.
-- Identificação e análise de riscos relacionados à infraestrutura e à segurança do ambiente.
+- Organizei e estruturei toda a documentação técnica do projeto, reunindo e padronizando as informações desenvolvidas pela equipe.
+- Identifiquei e analisei riscos relacionados à infraestrutura e à segurança do ambiente.
 - Documentação de medidas de segurança física, monitoramento e controle de acesso.
 
 ## 👨‍💻 Minha Participação
 
-Responsável pela organização e estruturação completa da documentação técnica, além do desenvolvimento da parte referente à segurança do Data Center.
+Organizei e estruturei a documentação técnica completa, além de desenvolver a parte referente à segurança do Data Center.
 
 ## 📚 Conhecimentos Aplicados
 
